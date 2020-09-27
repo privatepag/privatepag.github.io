@@ -2,7 +2,6 @@
 <!DOCTYPE html>
 <head>
     <meta charset="UFT-8">
-    <title>My First Page</title>
 </head>
 <body>
     <main><p>Hola</p></main>
